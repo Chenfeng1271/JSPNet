@@ -45,7 +45,7 @@ cd ..
 
 * Training, Test, and Evaluation
 ``` bash
-cd models/JISS/
+cd models/JSPNet/
 ln -s ../../data .
 
 # training
