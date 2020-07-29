@@ -82,7 +82,7 @@ def JISS(sem_input,ins_input,is_training,is_dist,bn_decay,num_point,num_embed,nu
     #original JSNet, containing output generation
     # Adaptation
     ###ACFmodule test##
-    sem_input = ACFModule(sem_input,ins_input,1,1,128,1,1,is_training,is_dist,bn_decay)
+    #sem_input = ACFModule(sem_input,ins_input,1,1,128,1,1,is_training,is_dist,bn_decay)
     net_sem_cache_0 = tf_util.conv1d(sem_input, 128, 1, padding='VALID', bn=True, is_training=is_training, is_dist=is_dist, scope='sem_cache_1', bn_decay=bn_decay)
     net_ins_1 = ins_input + net_sem_cache_0#[b,4096,128]
 
