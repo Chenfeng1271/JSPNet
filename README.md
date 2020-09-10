@@ -1,4 +1,4 @@
-# JSPNet: Learning Joint Semantic & Instance Segmentation of Point Clouds via Similarity and Probability(PR under review)
+# JSPNet: Learning Joint Semantic & Instance Segmentation of Point Clouds via Feature Self-similarity and Cross-task Probability(PR under review)
 
 ## Overview
 ![](misc/fig.png)
