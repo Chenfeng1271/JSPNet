@@ -30,10 +30,10 @@ cd ..
 
 | baseline | S&I module | mIoU | mPre |                             para                             |
 | :------: | :--------: | :--: | :--: | :----------------------------------------------------------: |
-|  JSNet   |    w/o     | 52.3 | 52.0 |                                                              |
-|  JSNet   |    SIFF    | 54.7 | 57.9 |                                                              |
-|  JSNet   |    PIFF    | 55.2 | 60.2 | [model](https://drive.google.com/drive/folders/1rFhkmBHmNHfSMyUwRyHmKDriW_bl43Yx) |
-|  JSNet   | SIFF&PIFF  | 55.8 | 59.3 | [model](https://drive.google.com/drive/folders/18W8xSoJ4a57KgdsFvhozrnJ3QQkxbxF3) |
+|  JSPNet   |    w/o     | 52.3 | 52.0 |                                                              |
+|  JSPNet   |    SIFF    | 54.7 | 57.9 |                                                              |
+|  JSPNet   |    PIFF    | 55.2 | 60.2 | [model](https://drive.google.com/drive/folders/1rFhkmBHmNHfSMyUwRyHmKDriW_bl43Yx) |
+|  JSPNet   | SIFF&PIFF  | 55.8 | 59.3 | [model](https://drive.google.com/drive/folders/18W8xSoJ4a57KgdsFvhozrnJ3QQkxbxF3) |
 
 
 
