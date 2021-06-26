@@ -94,7 +94,5 @@ This code largely benefits from following repositories:
 [PointConv](https://github.com/DylanWusee/pointconv),
 [SGPN](https://github.com/laughtervv/SGPN) 
 [DiscLoss-tf](https://github.com/hq-jiang/instance-segmentation-with-discriminative-loss-tensorflow)
-
 [JSNet](https://github.com/dlinzhao/JSNet)
-
 [Pytorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding)
