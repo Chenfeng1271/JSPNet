@@ -83,8 +83,15 @@ Note: We test on Area5 and train on the rest folds in default. 6 fold CV can be 
 ## Citation
 If our work is useful for your research, please consider citing:
 
-	paper under review
-	we will release our paper on arxiv soon
+@article{chen2021jspnet,
+  title={JSPNet: Learning Joint Semantic \& Instance Segmentation of Point Clouds via Feature Self-similarity and Cross-task Probability},
+  author={Chen, Feng and Wu, Fei and Gao, Guangwei and Ji, Yimu and Xu, Jing and Jiang, Guo-Ping and Jing, Xiao-Yuan},
+  journal={Pattern Recognition},
+  pages={108250},
+  year={2021},
+  publisher={Elsevier}
+}
+
 
 
 ## Acknowledgements
